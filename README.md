@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Antonio Barraza👋
 ![Antonio Barraza GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniobarraza&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniobarraza)](https://github.com/antoniobarraza/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniobarraza)](https://github.com/antoniobarraza/antoniobarraza/edit/main/README.md)
 
 ### Tecnologias utilizadas:
 <div style="display: inline_block"><br/>
